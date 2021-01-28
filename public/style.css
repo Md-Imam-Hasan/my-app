@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.heading{
+  background-color: purple;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 3rem;
+}
+.card{
+  background-color: chartreuse;
+  margin: 5px;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  width: 400px;
+  text-align: center;
+}
+.card-title{
+  margin: 5px;
+}
+.card-details{
+  margin: 5px;
+}
+.card-footer{
+  font-weight: bold;
+}
+/* button{
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: limegreen;
+  color: white;
+  margin: 0 10px;
+  font-size: 2rem;
+  width: 80px;
+} */
